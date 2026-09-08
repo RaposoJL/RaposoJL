@@ -37,4 +37,4 @@ Estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, prin
   </a>
 </p>
 
-<img src="![snake animation](https://github.com/RaposoJL/RaposoJL/blob/output/github-contribution-grid-snake2.svg)" alt="Cobra"/>
+<img src="https://raw.githubusercontent.com/RaposoJL/RaposoJL/output/github-contribution-grid-snake2.svg" alt="Cobra" />
