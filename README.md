@@ -26,8 +26,6 @@ Sou uma pessoa curiosa — sempre explorando, aprendendo e tentando entender com
 
 Estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, principalmente em **Java e Spring Boot**, buscando evoluir cada vez mais como desenvolvedor e transformar problemas em soluções simples e eficientes.
 
-> *Um cara curioso sendo curioso.* 🧠
-
 ## 📫 Onde me encontrar
 
 <p align="left">
@@ -38,3 +36,5 @@ Estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, prin
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
