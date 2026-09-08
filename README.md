@@ -36,5 +36,4 @@ Estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, prin
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 <img src="https://raw.githubusercontent.com/RaposoJL/RaposoJL/output/github-contribution-grid-snake2.svg" alt="Cobra" />
